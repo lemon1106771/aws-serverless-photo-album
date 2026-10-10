@@ -1,4 +1,4 @@
-# Globally Scalable Photo Album — Serverless AWS Architecture
+# Globally Scalable Photo Album - Serverless AWS Architecture
 
 **COS20019 · Cloud Computing Architecture · Group architecture proposal**
 
